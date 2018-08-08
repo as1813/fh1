@@ -5,7 +5,7 @@ checkTime = function()
 	local listen = "\n" .. "Срок приватного чита закончился. Обратитесь в группу за новыми обновлениями." 
 date = (os.date)("*t", (os.time)()) 
 date_ = 10000 * date.year + 100 * date.month + date.day 
-if date_ > 20180807 or date_ < 20180728 then 
+if date_ > 20180818 or date_ < 20180807 then 
 print(listen)
 print(listen)
 print(listen)
