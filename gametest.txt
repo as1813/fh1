@@ -137,7 +137,7 @@ local cd_pass_vip={
 	'Fh345', 
 	'Fh578', 
 	'Fh668',
-	'Fh412'
+	'Fh102'
 	
 	}
 	
