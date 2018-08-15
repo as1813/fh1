@@ -469,7 +469,7 @@ gg.toast('Слабый АимБот активирован!')
 end
 
 function AIM2()
-onlyvip()
+
 gg.clearResults()
 gg.setRanges(gg.REGION_ANONYMOUS)
 gg.searchNumber("3.5F;1F;1F;1F;200F;20F:512", gg.TYPE_DWORD, false, gg.SING_EQUAL, 0, -1)
