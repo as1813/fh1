@@ -244,7 +244,7 @@ end
 
 id_f= id_ .. '_'.. login[id]
 
-local cdint = '      🆔: #' .. id_f ..' | PhoenixHack © 2018\n✨YouTube канал: youtube.com/PhoenixHack\n💌Группа Вконтакте: vk.com/pubgmobilefhoenixhack'
+local cdint = '🔥ⓅⒽⓄⒺⓃⒾⓍⒽⒶⒸⓀ  v②.⓪🔥\n🆔: #' .. id_f ..' | PhoenixHack © 2018\n✨YouTube канал: youtube.com/PhoenixHack\n💌Группа Вконтакте: vk.com/pubgmobilefhoenixhack'
 
 -- ============================================================
 
