@@ -46,7 +46,7 @@ local login_vip={
 	'Asher TV', 
     'RedAlone', 
     'Hackvee', 
-    'Херето' 
+    'Sergiu Tigirlas' 
 	}
 	
 local cd_pass_vip={
