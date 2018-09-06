@@ -828,15 +828,15 @@ if evilh3[6] == true then smoth() end
 if evilh3[7] == true then wallt() end
 if evilh3[8] == true then visualsit() end
 if evilh3[9] == true then visualsit2() end
-if evilh3[10] == true then LJ() end
-if evilh3[11] == true then PA() end
+if evilh3[10] == true then dp() end
+if evilh3[11] == true then fly() end
 if evilh3[12] == true then black() end
 if evilh3[13] == true then LDM() end
 end 
 evil = -1
 end
 
-function LJ()
+function dp()
 gg.clearResults()
 gg.searchNumber("-980.0F;0.30000001192F:512", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
 gg.searchNumber("-980", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
@@ -846,7 +846,7 @@ gg.clearResults()
 gg.toast("Длинный прыжок активирован!")
 end
 
-function PA()
+function fly()
 gg.clearResults()
 gg.setRanges(32) gg.searchNumber("1;-0.70710676908;0.70710670948;64;1.793662e-43;1.4012985e-45;1D;1D::", 16, false, 536870912, 0, -1)
 gg.searchNumber("1.4012985e-45", 16, false, 536870912, 0, -1)
