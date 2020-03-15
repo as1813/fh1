@@ -2083,7 +2083,7 @@ end
 function exit()
   gg.setVisible(true)
   print([[
-If you found bugs in script - please contact PLAYDF25 in Telegram!
+
 
 Telegram:
 tme.run/joinchat/AAAAAE6rI6Y9HgzcF_5n4Q
