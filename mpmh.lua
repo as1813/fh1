@@ -10,7 +10,7 @@ if gg.VERSION < "92.0" then
   os.exit()
 end
 
-local login={'Виктор', 'Farik', 'KINGAxPOP', 'NINJA', 'Merkuriy', 'Антон Ясюкевич', 'Omnetic Ff', 'Hackerxxx Lil'} 
+local login={'Виктор', 'Farik', 'KINGAxPOP', 'NINJA', 'Merkuriy', 'NIKITAKIS171', 'Omnetic Ff', 'Hackerxxx Lil'} 
 
 local login_vip={
 	'Memory',
